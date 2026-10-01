@@ -6,7 +6,7 @@ A real-time visualization of modular multiplication on a circle. The application
 
 ## Install and run on Windows
 
-1. Download the ZIP from the latest release and extract all its files into one folder.
+1. Download the ZIP from the [latest release](https://github.com/Bluzaborges/modular-cardioid/releases) and extract all its files into one folder.
 2. Open the extracted folder and run `modular-cardioid.exe`.
 
 ## Build from source
